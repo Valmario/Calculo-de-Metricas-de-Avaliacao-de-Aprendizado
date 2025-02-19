@@ -1,7 +1,3 @@
-Aqui está o README estruturado com uma abordagem que eu faria, priorizando clareza, organização e estética:
-
----
-
 # 📊 Métricas de Avaliação de Modelos de Classificação
 
 Este projeto implementa e calcula métricas essenciais para avaliação de modelos de classificação, como **Acurácia**, **Sensibilidade (Recall)**, **Especificidade**, **Precisão** e **F-Score**. O objetivo é entender como essas métricas funcionam na prática utilizando Python no **Google Colab**.
